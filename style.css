@@ -40,9 +40,9 @@ nav {
 }
 
 .products {
-
+    background-color: #456882;
     display: flex;;
-    gap: 20px;
+
     padding: 20px;
 }
 footer {
