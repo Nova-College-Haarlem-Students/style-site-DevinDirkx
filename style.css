@@ -38,3 +38,18 @@ nav {
     text-align: center;
     padding: 0 20px 50px 20px;
 }
+
+.products {
+
+    display: flex;;
+    gap: 20px;
+    padding: 20px;
+}
+footer {
+    background-color: #d2c2b6;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
